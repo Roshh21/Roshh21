@@ -30,8 +30,8 @@ and epicenter prediction using CNNs, Transformers, and signal processing.
 
 ## 🧠 Areas I Work With
 
-`AI/ML` `GenAI` `Full Stack Development` `Real-Time Systems`
-`Game Development` `Distributed Systems` `3D & Interactive Experiences`
+`AI/ML` `GenAI` `Full Stack Development` `Backend` `Deep learning` `Frontend` `UI/UX Design` `Real-Time Systems`
+`Game Development` `Distributed Systems` `3D & Interactive Experiences` 
 
 ---
 
