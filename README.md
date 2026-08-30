@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hey, I'm Roshni Singh 👋
 
-<!--
-**Roshh21/Roshh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer • Full Stack Developer • AI/ML & GenAI • Game Development
 
-Here are some ideas to get you started:
+I build software across AI/ML, full-stack systems, real-time applications,
+and interactive experiences — with a focus on learning by building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Engineer Intern at **CrashPlan**
+- Building **Last Stand**, a real-time multiplayer social-strategy game
+- Interested in AI/ML, GenAI, distributed systems, and game development
+- Currently strengthening problem-solving and DSA
+
+---
+
+## 🚀 Selected Projects
+
+### 🎮 Last Stand
+A real-time multiplayer social-strategy game where cooperation, deception,
+and individual decisions determine who makes it to the end.
+
+### 🤖 InsightPDF
+A RAG-based document intelligence platform for querying and extracting
+information from documents using GenAI.
+
+### 🌋 Seismic Event Detection System
+A deep-learning system for seismic event detection, magnitude estimation,
+and epicenter prediction using CNNs, Transformers, and signal processing.
+
+---
+
+## 🧠 Areas I Work With
+
+`AI/ML` `GenAI` `Full Stack Development` `Real-Time Systems`
+`Game Development` `Distributed Systems` `3D & Interactive Experiences`
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/roshni-r-singh-7581ba286/) • [Portfolio](https://portfolio-roshnidev.vercel.app/) • [Email](roshnisingh1810@gmail.com)
