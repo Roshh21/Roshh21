@@ -1,4 +1,4 @@
-## Hey, I'm Roshni Singh 👋
+## Hey, I'm Roshni Singh 
 
 ### Software Engineer • Full Stack Developer • AI/ML & GenAI • Game Development
 
@@ -12,29 +12,29 @@ and interactive experiences — with a focus on learning by building.
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 🎮 Last Stand
+### Last Stand
 A real-time multiplayer social-strategy game where cooperation, deception,
 and individual decisions determine who makes it to the end.
 
-### 🤖 InsightPDF
+### InsightPDF
 A RAG-based document intelligence platform for querying and extracting
 information from documents using GenAI.
 
-### 🌋 Seismic Event Detection System
+### Seismic Event Detection System
 A deep-learning system for seismic event detection, magnitude estimation,
 and epicenter prediction using CNNs, Transformers, and signal processing.
 
 ---
 
-## 🧠 Areas I Work With
+## Areas I Work With
 
 `AI/ML` `GenAI` `Full Stack Development` `Backend` `Deep learning` `Frontend` `UI/UX Design` `Real-Time Systems`
 `Game Development` `Distributed Systems` `3D & Interactive Experiences` 
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/roshni-r-singh-7581ba286/) • [Portfolio](https://portfolio-roshnidev.vercel.app/) • [Email](roshnisingh1810@gmail.com)
