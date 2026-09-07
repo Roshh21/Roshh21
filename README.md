@@ -4,7 +4,7 @@
 
 I build software across **full-stack applications, real-time systems, AI/GenAI, and interactive experiences**, with a focus on designing systems that are scalable, modular, and fun to use.
 
-* Software Engineer at **CrashPlan**, working on backend systems, operational tooling, and AI-assisted workflows
+* Software Engineer at **CrashPlan**, working on backend systems and operational tooling
 * Building **DevClash**, a competitive software-engineering platform combining coding, debugging, SQL, and real-world engineering challenges
 * Build **Last Stand**, a real-time multiplayer social-strategy game powered by WebSockets and server-authoritative architecture
 * Build **InsightPDF**, an agentic RAG platform for intelligent document analysis and research
